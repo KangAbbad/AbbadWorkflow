@@ -7,7 +7,7 @@
     "build": "webpack",
     "build:prod": "webpack --mode production",
     "dev": "webpack-dev-server --mode development",
-	  "start": "webpack && npm run dev"
+    "start": "webpack && npm run dev"
   },
   "author": "kangabbad",
   "license": "MIT",
