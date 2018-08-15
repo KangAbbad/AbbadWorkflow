@@ -1,3 +1,5 @@
-node_modules
-dist
+/v1/node_modules/
+/v2/node_modules/
+/v1/dist/
+/v2/dist/
 .vscode
