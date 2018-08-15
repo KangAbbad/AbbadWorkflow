@@ -1,23 +1,16 @@
 @font-face {
-    font-family: 'Grace';
-    src: url('../fonts/covered_by_your_grace/CoveredByYourGrace.ttf') format('truetype');
-    font-weight: 400;
-}
-
-@font-face {
     font-family: 'Satisfy';
     src: url('../fonts/satisfy/Satisfy-Regular.ttf') format('truetype');
     font-weight: 400;
 }
 
-$grace : 'Grace';
 $satisfy: 'Satisfy';
 
 body {
     background-color: #707070;
     background-image: url('../images/mockup.png');
     background-size: cover;
-    color: $gray-500;
+    color: #ebebeb;
     font-family: $satisfy;
 
     img {
